@@ -23,7 +23,7 @@ As shown above, Diana DeGette won by a huge margin. Blowing out Charles Stockham
 ![Vote_percentage](https://github.com/GaryGibbs-777/PyPoll_Challenge/blob/main/Vote_Percentage.PNG)
 
 - The winner of the election: 
-- 
+
 ![Winner](https://github.com/GaryGibbs-777/PyPoll_Challenge/blob/main/Winner_cadidate.PNG)
 
 As stated eariler and as you can see Diana won by almost 3/4 of the total votes.
