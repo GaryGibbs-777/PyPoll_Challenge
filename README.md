@@ -28,5 +28,6 @@ As shown above, Diana DeGette won by a huge margin. Blowing out Charles Stockham
 
 As stated eariler and as you can see Diana won by almost 3/4 of the total votes.
 
-
-I would add the ages of the people that voted that way the cadidates can target their voters needs and wants better and I would expand the votering parameter to the whole state too.
+# Election Audit Summary
+This script can be used for just about any election. You would just need to change the csv file name and with that you could do school elections, corporate elections too, and even state level elections too. 
+You can also change the index number. For example if the index number is 1 or 2, then you would change it to 3 or 4. Or if there is a new election candidate on the docket then you could add their name and insert a new row for them like cadidate_name = row[5]. 
